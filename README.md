@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I like science and making things!
 
 🔭 I’m currently working on
   -  [JSPyBridge](https://github.com/extremeheat/JSPyBridge) - A language bridge to connect and interoperate JavaScript and Python bidirectionally
