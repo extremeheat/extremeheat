@@ -22,8 +22,6 @@ I like science and making things!
 * [Observation of Time-Crystalline Eigenstate Order on a Quantum Processor](https://arxiv.org/pdf/2107.13571.pdf) by Google
 
 
-Need anything? [✉️ Contact](mailto:inbox@zubear.me) - Choudhury
-
 <!--
 **extremeheat/extremeheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
