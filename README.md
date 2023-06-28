@@ -1,5 +1,3 @@
-### <img width=30 height=30 src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/lg/307/flag-ukraine_1f1fa-1f1e6.png"/> [How you can help in Ukraine](https://www.cidi.org/disaster-responses/war-in-ukraine/) 
-
 I like science and making things! 
 
 🔭 I’m currently working on
@@ -20,8 +18,6 @@ I like science and making things!
 * ["Crafting Interpreters"](https://craftinginterpreters.com/) by Robert Nystrom
 * ["Mapping High Level Constructs to LLVM IR"](https://mapping-high-level-constructs-to-llvm-ir.readthedocs.io/en/latest/README.html) by @f0rki
 * [Observation of Time-Crystalline Eigenstate Order on a Quantum Processor](https://arxiv.org/pdf/2107.13571.pdf) by Google
-
-Need anything? [✉️ Contact](mailto:inbox@zubear.me) - Choudhury
 
 <!--
 **extremeheat/extremeheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
