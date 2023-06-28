@@ -1,5 +1,3 @@
-### <img width=30 height=30 src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/lg/307/flag-ukraine_1f1fa-1f1e6.png"/> [How you can help in Ukraine](https://www.cidi.org/disaster-responses/war-in-ukraine/) 
-
 I like science and making things! 
 
 🔭 I’m currently working on
